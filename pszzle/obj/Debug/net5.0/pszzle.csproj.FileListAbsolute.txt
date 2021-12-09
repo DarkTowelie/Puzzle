@@ -1,0 +1,17 @@
+F:\Сигма-М\VS Csh\pszzle\pszzle\bin\Debug\net5.0\pszzle.exe
+F:\Сигма-М\VS Csh\pszzle\pszzle\bin\Debug\net5.0\pszzle.deps.json
+F:\Сигма-М\VS Csh\pszzle\pszzle\bin\Debug\net5.0\pszzle.runtimeconfig.json
+F:\Сигма-М\VS Csh\pszzle\pszzle\bin\Debug\net5.0\pszzle.runtimeconfig.dev.json
+F:\Сигма-М\VS Csh\pszzle\pszzle\bin\Debug\net5.0\pszzle.dll
+F:\Сигма-М\VS Csh\pszzle\pszzle\bin\Debug\net5.0\ref\pszzle.dll
+F:\Сигма-М\VS Csh\pszzle\pszzle\bin\Debug\net5.0\pszzle.pdb
+F:\Сигма-М\VS Csh\pszzle\pszzle\obj\Debug\net5.0\pszzle.csproj.AssemblyReference.cache
+F:\Сигма-М\VS Csh\pszzle\pszzle\obj\Debug\net5.0\pszzle.GeneratedMSBuildEditorConfig.editorconfig
+F:\Сигма-М\VS Csh\pszzle\pszzle\obj\Debug\net5.0\pszzle.AssemblyInfoInputs.cache
+F:\Сигма-М\VS Csh\pszzle\pszzle\obj\Debug\net5.0\pszzle.AssemblyInfo.cs
+F:\Сигма-М\VS Csh\pszzle\pszzle\obj\Debug\net5.0\pszzle.csproj.CoreCompileInputs.cache
+F:\Сигма-М\VS Csh\pszzle\pszzle\obj\Debug\net5.0\pszzle.dll
+F:\Сигма-М\VS Csh\pszzle\pszzle\obj\Debug\net5.0\ref\pszzle.dll
+F:\Сигма-М\VS Csh\pszzle\pszzle\obj\Debug\net5.0\pszzle.pdb
+F:\Сигма-М\VS Csh\pszzle\pszzle\obj\Debug\net5.0\pszzle.genruntimeconfig.cache
+F:\Сигма-М\VS Csh\pszzle\pszzle\bin\Debug\net5.0\lvlParams.txt
