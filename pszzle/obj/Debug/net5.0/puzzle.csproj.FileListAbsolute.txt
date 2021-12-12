@@ -15,3 +15,20 @@ H:\Сигма-М\VS Csh\pszzle\pszzle\obj\Debug\net5.0\puzzle.dll
 H:\Сигма-М\VS Csh\pszzle\pszzle\obj\Debug\net5.0\ref\puzzle.dll
 H:\Сигма-М\VS Csh\pszzle\pszzle\obj\Debug\net5.0\puzzle.pdb
 H:\Сигма-М\VS Csh\pszzle\pszzle\obj\Debug\net5.0\puzzle.genruntimeconfig.cache
+D:\Clone\Puzzle\pszzle\obj\Debug\net5.0\puzzle.dll
+D:\Clone\Puzzle\pszzle\obj\Debug\net5.0\ref\puzzle.dll
+D:\Clone\Puzzle\pszzle\obj\Debug\net5.0\puzzle.pdb
+D:\Clone\Puzzle\pszzle\bin\Debug\net5.0\lvlParams.txt
+D:\Clone\Puzzle\pszzle\bin\Debug\net5.0\puzzle.exe
+D:\Clone\Puzzle\pszzle\bin\Debug\net5.0\puzzle.deps.json
+D:\Clone\Puzzle\pszzle\bin\Debug\net5.0\puzzle.runtimeconfig.json
+D:\Clone\Puzzle\pszzle\bin\Debug\net5.0\puzzle.runtimeconfig.dev.json
+D:\Clone\Puzzle\pszzle\bin\Debug\net5.0\puzzle.dll
+D:\Clone\Puzzle\pszzle\bin\Debug\net5.0\ref\puzzle.dll
+D:\Clone\Puzzle\pszzle\bin\Debug\net5.0\puzzle.pdb
+D:\Clone\Puzzle\pszzle\obj\Debug\net5.0\puzzle.csproj.AssemblyReference.cache
+D:\Clone\Puzzle\pszzle\obj\Debug\net5.0\puzzle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clone\Puzzle\pszzle\obj\Debug\net5.0\puzzle.AssemblyInfoInputs.cache
+D:\Clone\Puzzle\pszzle\obj\Debug\net5.0\puzzle.AssemblyInfo.cs
+D:\Clone\Puzzle\pszzle\obj\Debug\net5.0\puzzle.csproj.CoreCompileInputs.cache
+D:\Clone\Puzzle\pszzle\obj\Debug\net5.0\puzzle.genruntimeconfig.cache

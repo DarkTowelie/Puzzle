@@ -49,7 +49,8 @@ namespace pszzle
         static void DrawField()
         {
             Console.SetCursorPosition(0, 0);
-            for(int x = 0; x < field.Width; x++)
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            for (int x = 0; x < field.Width; x++)
             {
                 Console.Write("#");
             }
@@ -57,29 +58,34 @@ namespace pszzle
 
             for (int y = 1; y < field.Height - 1; y++)
             {
+                Console.ForegroundColor = ConsoleColor.Cyan;
                 Console.Write("#");
                 for (int x = 1; x < field.Width - 1; x++)
                 {
                     bool cellIsEmpty = true;
                     if (character.X == x && character.Y == y)
                     {
+                        Console.ForegroundColor = ConsoleColor.Red;
                         Console.Write("O");
                         continue;
                     }
 
                     if(barrel.X == x && barrel.Y == y)
                     {
+                        Console.ForegroundColor = ConsoleColor.DarkMagenta;
                         Console.Write("B");
                         continue;
                     }
 
                     if (exit.X == x && exit.Y == y)
                     {
+                        Console.ForegroundColor = ConsoleColor.Green;
                         Console.Write("X");
                         continue;
                     }
 
                     int lvlNum = field.lvlNum;
+                    Console.ForegroundColor = ConsoleColor.Cyan;
                     for (int i = 0; i < field.WallsX[lvlNum].Length; i++)
                     {
                         if(x == field.WallsX[lvlNum][i] && y == field.WallsY[lvlNum][i])
@@ -95,14 +101,26 @@ namespace pszzle
                         Console.Write(" ");
                     }
                 }
+                Console.ForegroundColor = ConsoleColor.Cyan;
                 Console.Write("#\n");
             }
 
+            Console.ForegroundColor = ConsoleColor.Cyan;
             for (int x = 0; x < field.Width; x++)
             {
                 Console.Write("#");
             }
-            Console.Write("\n");
+
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.Write("\n" + "Move ");
+            Console.ForegroundColor = ConsoleColor.DarkMagenta;
+            Console.Write("B");
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.Write("arrel to e");
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.Write("X");
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.Write("it\nWASD - controll\nR - restart level");
         }
         static void DrawGameOver()
         {

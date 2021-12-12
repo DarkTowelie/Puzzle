@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I7MqdNyKNjAR/kl441ruaIu1cLTrUOA+o95BZYeaviwL7K/kYJC3ydIV3lw0NvTyIwehCBy/XBnrVlXJqa/hgQ==",
+  "dgSpecHash": "crOewhm36s4uPQxF1HD2XKXe+8h5pPY6Ue8QdZ1Y4E4I0LqhSb8FZjcYY++PzC7L/bOYxuV0i4ML7uXxi92qAw==",
   "success": true,
-  "projectFilePath": "H:\\Сигма-М\\VS Csh\\pszzle\\pszzle\\puzzle.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\valer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Clone\\Puzzle\\pszzle\\puzzle.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

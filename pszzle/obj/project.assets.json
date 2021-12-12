@@ -8,25 +8,23 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\valer\\.nuget\\packages\\": {},
-    "E:\\Programs\\Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Win10m\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Сигма-М\\VS Csh\\pszzle\\pszzle\\puzzle.csproj",
+      "projectUniqueName": "D:\\Clone\\Puzzle\\pszzle\\puzzle.csproj",
       "projectName": "puzzle",
-      "projectPath": "H:\\Сигма-М\\VS Csh\\pszzle\\pszzle\\puzzle.csproj",
-      "packagesPath": "C:\\Users\\valer\\.nuget\\packages\\",
-      "outputPath": "H:\\Сигма-М\\VS Csh\\pszzle\\pszzle\\obj\\",
+      "projectPath": "D:\\Clone\\Puzzle\\pszzle\\puzzle.csproj",
+      "packagesPath": "C:\\Users\\Win10m\\.nuget\\packages\\",
+      "outputPath": "D:\\Clone\\Puzzle\\pszzle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "E:\\Programs\\Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\valer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Win10m\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -62,18 +60,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.12, 5.0.12]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
